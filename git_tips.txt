@@ -1,0 +1,7 @@
+change git user.email for "contribution" indication
+git config.email "your email"
+
+change git config to token
+1. create token
+2. Username: your_username
+   Password: your_token
