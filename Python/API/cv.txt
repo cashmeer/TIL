@@ -1,0 +1,39 @@
+Biginsight
+Team Leader in the data science team specializing in the analysis and Machine Learning feature as part of the development team
+
+Manage maintenance, optimization, and develop analysis function for e-commerce analytics, CRM analytics, recommendation engines
+Analyze session and clickstream data for more than 50 conglomerate & corporate E-commerce website
+Establish/manage analytical dashboard to marketing team, product manager, business development team for data-driven decision-making
+Communicate/Consulate client, account service team, and sales team to deliver technical problem solutions and business insight
+Managed more than 75 governmental funded data program, contributing sales of 60 Billion KRW(5 Million USD)
+
+Utilization: Python, PyTorch, SQL, Clickhouse DB, MongoDB, Redash, Docker, Kubernetes, Kubeflow
+
+SAP Korea
+Hand over the analysis information & data report on a business operation to marketing, sales team
+
+Prepared/handover status on the marketing KPI, sales pipeline, target segment, Omnichannel campaign using Excel & PowerPoint to internal related teams
+Cooperated with HQ, local marketing agency, and internal teams for efficient data collection process supports local/global privacy policy
+Assisted data migration & synchronization for global CRM database
+Assured quality & error-free database in various internal systems
+Enhanced data processing pipeline through utilizing Python for automation, reduce operation time by 900%
+
+Utilization: Excel, Powerpoint, Acces, Python, HTML, SQL
+
+Robex Investment
+Fintech start-up providing/developing “Robo-advisors” enable investors to manage interactive finance investment based on risk exposure
+
+Developed prototype web-server by utilizing Django Framework
+Developed finance-related data pipeline, ETL process, and algorithm
+
+Utilization: Python, Django, Bootstrap3, MySQL, MongoDB, Excel, Google Doc
+
+Seagate Technology
+Test Process Engineer
+As an Engineer at Seagate, I have designed, developed, tested, and integrated new Test Process features into Hard Disc Drive products using Python & C.
+
+Cooperated with different engineering group on servo, reading, writing, firmware, recording, planning, preparing test cases, and reported to the management regarding technical issues
+Executed training/education bulk-production team and cooperated with engineering & production engineering teams
+
+Utilization: Python, C, Google Doc, Jira
+
