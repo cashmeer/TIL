@@ -1,4 +1,3 @@
-# let's make CAN SLIM Stock Analysis William O'Neil
 """
 C (Current Earnings): 현재 주당 분기 순이익
 분기 순이익 증가율이 25% 이상인 기업에 투자합니다.
@@ -16,5 +15,3 @@ I (Institutional Sponsorship) : 기관 관심주
 M (Market Direction) : 시장의 방향
 보조지표나 시장속보 등 전문가의 견해를 의지하는 것 보다는 매일 종합주가지수의 움직임을 체크하며 자신만의 노하우로 시장 움직임을 파악하는 것이 중요합니다.
 """
-
-EPS = 1044
